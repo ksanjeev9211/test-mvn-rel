@@ -91,10 +91,7 @@
 		<connection>scm:git@github.com:ksanjeev9211/test-mvn-rel.git</connection>
 		<developerConnection>scm:git:git@github.com:ksanjeev9211/test-mvn-rel.git</developerConnection>
 		<url>scm:git:git@github.com:ksanjeev9211/test-mvn-rel.git</url>
-		<!-- <tag>BlueKing-11.0.1</tag> -->
-	  
-   
-    <tag>HEAD</tag>
+
   </scm>
 
 </project>
