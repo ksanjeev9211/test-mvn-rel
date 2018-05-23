@@ -6,7 +6,7 @@
 	<artifactId>test-mvn-rel</artifactId>
 	<packaging>pom</packaging>
 	<name>test-mvn-rel</name>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0.RELEASE</version>
 
 	<organization>
 		<name>Sanjeev</name>
@@ -92,6 +92,7 @@
 		<developerConnection>scm:git:git@github.com:ksanjeev9211/test-mvn-rel.git</developerConnection>
 		<url>scm:git:git@github.com:ksanjeev9211/test-mvn-rel.git</url>
 
+    <tag>tes-REL.1.0.0</tag>
   </scm>
 
 </project>
