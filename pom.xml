@@ -6,7 +6,7 @@
 	<artifactId>test-mvn-rel</artifactId>
 	<packaging>pom</packaging>
 	<name>test-mvn-rel</name>
-	<version>1.0.0.RELEASE</version>
+	<version>1.0.1-SNAPSHOT</version>
 
 	<organization>
 		<name>Sanjeev</name>
@@ -94,7 +94,7 @@
 		<!-- <tag>BlueKing-11.0.1</tag> -->
 	  
    
-    <tag>test-1.0.0.RC</tag>
+    <tag>HEAD</tag>
   </scm>
 
 </project>
