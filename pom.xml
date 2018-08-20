@@ -6,7 +6,7 @@
 	<artifactId>test-mvn-rel</artifactId>
 	<packaging>pom</packaging>
 	<name>test-mvn-rel</name>
-	<version>1.0.6-SNAPSHOT</version>
+	<version>fatal: Remote branch 1.0.6.RELEASE not found in upstream origin</version>
 
 	<organization>
 		<name>Sanjeev</name>
@@ -92,7 +92,7 @@
 		<developerConnection>scm:git:git@github.com:ksanjeev9211/test-mvn-rel.git</developerConnection>
 		<url>scm:git:git@github.com:ksanjeev9211/test-mvn-rel.git</url>
 
-    <tag>1.1.1.RC</tag>
+    <tag>test-mvn-rel-fatal: Remote branch 1.0.6.RELEASE not found in upstream origin</tag>
   </scm>
 
 </project>
